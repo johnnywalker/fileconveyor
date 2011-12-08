@@ -30,3 +30,8 @@ no immediate plans to improve the aforementioned, but it's hard to tell the
 future.
 
 *Johnny Walker*
+
+Installation
+------------
+
+To create an app bundle from the sources, just enter `python setup.py py2app`.
